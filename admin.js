@@ -174,47 +174,73 @@ window.editStudent = editStudent;
 
 const classSubjects = {
 
+"Nursery": [
+        "English",
+        "Math",
+        "Hindi",
+        "Rhymes",
+        "General Knowledge",
+    ],
+
+  "L.K.G": [
+        "English",
+        "Math",
+        "Hindi",
+        "Rhymes",
+        "General Knowledge",
+    ],
+
+  "U.K.G": [
+        "English",
+        "Math",
+        "Hindi",
+        "Rhymes",
+        "General Knowledge",
+    ],
+  
     "1": [
         "English",
         "Math",
         "Hindi",
-        "Science",
-        "Social Studies",
-        "Computer"
+        "Computer",
+        "E.V.S",
+        "G.K"
     ],
 
     "2": [
         "English",
         "Math",
         "Hindi",
-        "Science",
-        "Social Studies",
-        "Computer"
+        "Computer",
+        "E.V.S",
+        "G.K"
     ],
 
     "3": [
         "English",
         "Math",
         "Hindi",
-        "Science",
-        "Social Studies",
-        "Computer"
+        "Computer",
+        "E.V.S",
+        "G.K"
     ],
 
     "4": [
         "English",
         "Math",
         "Hindi",
-        "Science",
-        "Social Studies"
+        "Computer",
+        "E.V.S",
+        "G.K"
     ],
 
     "5": [
         "English",
         "Math",
         "Hindi",
-        "Science",
-        "Social Studies"
+        "Computer",
+        "E.V.S",
+        "G.K"
     ],
 
     "6": [
@@ -223,6 +249,44 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
+        "
+    ],
+
+  "7": [
+        "English",
+        "Math",
+        "Hindi",
+        "Science",
+        "Social Studies"
+        "
+    ],
+
+  
+  "8": [
+        "English",
+        "Math",
+        "Hindi",
+        "Science",
+        "Social Studies"
+        "
+    ],
+
+  "9": [
+        "English",
+        "Math",
+        "Hindi",
+        "Science",
+        "Social Studies"
+        "
+    ],
+
+  "10": [
+        "English",
+        "Math",
+        "Hindi",
+        "Science",
+        "Social Studies"
+        "
     ]
 
 };
@@ -287,7 +351,20 @@ function loadMonths() {
         "September 2026",
         "October 2026",
         "November 2026",
-        "December 2026"
+        "December 2026",
+        "January 2027",
+        "February 2027",
+        "March 2027",
+        "April 2027",
+        "May 2027",
+        "June 2027",
+        "July 2027",
+        "August 2027",
+        "September 2027",
+        "October 2027",
+        "November 2027",
+        "December 2027",
+        "JANUARY 2028",
     ];
 
     months.forEach(item => {
