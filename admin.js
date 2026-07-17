@@ -249,7 +249,7 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
-        "
+        
     ],
 
   "7": [
@@ -258,7 +258,6 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
-        "
     ],
 
   
@@ -268,7 +267,7 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
-        "
+        
     ],
 
   "9": [
@@ -277,7 +276,7 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
-        "
+        
     ],
 
   "10": [
@@ -286,7 +285,7 @@ const classSubjects = {
         "Hindi",
         "Science",
         "Social Studies"
-        "
+        
     ]
 
 };
