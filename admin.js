@@ -179,7 +179,7 @@ const classSubjects = {
         "Math",
         "Hindi",
         "Rhymes",
-        "General Knowledge",
+        "G.K",
     ],
 
   "L.K.G": [
@@ -187,7 +187,7 @@ const classSubjects = {
         "Math",
         "Hindi",
         "Rhymes",
-        "General Knowledge",
+        "G.K",
     ],
 
   "U.K.G": [
@@ -195,7 +195,7 @@ const classSubjects = {
         "Math",
         "Hindi",
         "Rhymes",
-        "General Knowledge",
+        "G.K",
     ],
   
     "1": [
