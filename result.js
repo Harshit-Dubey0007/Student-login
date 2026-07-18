@@ -93,8 +93,8 @@ const classSubjects = {
   "1": ["English", "Math", "Hindi", "Computer", "E.V.S", "G.K"],
     "2": ["English", "Math", "Hindi", "Computer", "E.V.S", "G.K"],
     "3": ["English", "Math", "Hindi", "Computer", "E.V.S", "G.K"],
-    "4": ["English", "Math", "Hindi", "Science", "Social Studies"],
-    "5": ["English", "Math", "Hindi", "Science", "Social Studies"],
+    "4": ["English", "Math", "Hindi", "Computer", "E.V.S", "G.K"],
+    "5": ["English", "Math", "Hindi", "Computer", "E.V.S", "G.K"],
     "6": ["English", "Math", "Hindi", "Science", "Social Studies"],
   "7": ["English", "Math", "Hindi", "Science", "Social Studies"],
   "8": ["English", "Math", "Hindi", "Science", "Social Studies"],
@@ -105,10 +105,10 @@ const classSubjects = {
 const subjects = classSubjects[student.class];
 
 const maxMarks =
-    ["1", "2", "3","4","5"].includes(student.class) ? 50 : 60;
+    ["Nursery","L.K.G","U.K.G","1", "2", "3","4","5","6","7","8","9","10"].includes(student.class) ? 50 : 60;
 
 const passMarks =
-    ["1", "2", "3","4","5"].includes(student.class) ? 17 : 20;
+    ["Nursery","L.K.G","U.K.G","1", "2", "3","4","5","6","7","8","9","10"].includes(student.class) ? 17 : 20;
 
 const selectedResult = subjects.map(subject => [
     subject,
